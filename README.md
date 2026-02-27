@@ -1,7 +1,3 @@
-Here is a clean, structured, and professional Markdown formatted version of your notes, ready to be saved as `README.md` for your GitHub repository.
-
----
-
 # Food Hazard Detection with Large Language Models 🍔🔍
 
 **SemEval-2025 Task 9 – Comparative Study**
@@ -152,6 +148,3 @@ To ensure reproducibility, the following standards were maintained across all ex
 * FAISS utilized cosine similarity with normalized embeddings.
 * All provided scripts and configurations match the exact setups used for the final report.
 
----
-
-Would you like me to draft a boilerplate `requirements.txt` based on the libraries implied here (like `faiss-cpu`, `ollama`, `transformers`, `scikit-learn`), or write a template structure for the `report.pdf`?
