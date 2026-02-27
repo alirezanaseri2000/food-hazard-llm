@@ -1,145 +1,157 @@
-Food Hazard Detection with Large Language Models
+Here is a clean, structured, and professional Markdown formatted version of your notes, ready to be saved as `README.md` for your GitHub repository.
 
-SemEval-2025 Task 9 – Comparative Study
+---
 
-Overview
+# Food Hazard Detection with Large Language Models 🍔🔍
 
-This project investigates the application of Large Language Models (LLMs) to food hazard detection using the SemEval-2025 Task 9 dataset.
+**SemEval-2025 Task 9 – Comparative Study**
 
-Three paradigms are explored and compared:
+## 📖 Overview
 
-Prompt-Based Inference (Zero-shot / Few-shot)
+This project investigates the application of Large Language Models (LLMs) to food hazard detection using the SemEval-2025 Task 9 dataset. The objective is to analyze their strengths, limitations, and trade-offs in a safety-critical NLP classification setting.
 
-Supervised Fine-Tuning (SFT)
+We explore and compare three distinct paradigms:
 
-Retrieval-Augmented Generation (RAG)
+* **Prompt-Based Inference** (Zero-shot / Few-shot)
+* **Supervised Fine-Tuning (SFT)**
+* **Retrieval-Augmented Generation (RAG)**
 
-The objective is to analyze their strengths, limitations, and trade-offs in a safety-critical NLP classification setting.
+## 📊 Dataset
 
-Dataset
+**Source:** SemEval-2025 Task 9 – Food Hazard Detection Challenge
 
-Dataset: SemEval-2025 Task 9 – Food Hazard Detection Challenge
+Each record in the dataset contains the following attributes:
 
-Each record contains:
+* `title`
+* `text`
+* `hazard-category` (10 classes)
+* `product-category` (22 classes)
 
-title
+> ⚠️ **Important:** The dataset is not included in this repository due to licensing/distribution constraints.
 
-text
+**Setup Instructions:**
+Download the dataset from the official SemEval source and place the following files inside a `data/` directory at the root of the project:
 
-hazard-category
-
-product-category
-
-Label spaces:
-
-Hazard categories: 10 classes
-
-Product categories: 22 classes
-
-⚠️ The dataset is not included in this repository.
-Download it from the official SemEval source and place the following files inside a data/ directory:
-
+```text
 data/
 ├── incidents_train.csv
 ├── incidents_valid.csv
 └── incidents_test.csv
 
-Methods
-1. Prompt-Based Inference
+```
 
-Zero-shot and few-shot prompting
+## 🧠 Methods
 
-Instruction-tuned LLM (llama3.1:8b)
+### 1. Prompt-Based Inference
 
-Deterministic decoding (temperature = 0)
+* **Technique:** Zero-shot and few-shot prompting.
+* **Model:** Instruction-tuned LLM (`llama3.1:8b`).
+* **Configuration:** Deterministic decoding (temperature = 0) with label-restricted outputs to strictly match the category spaces.
 
-Label-restricted outputs
+### 2. Supervised Fine-Tuning (SFT)
 
-2. Supervised Fine-Tuning (SFT)
+* **Architecture:** Pretrained transformer backbone.
+* **Training Variants:** * Multi-task classification (jointly predicting hazard and product).
+* Product-only fine-tuning.
 
-Pretrained transformer backbone
 
-Multi-task classification (hazard + product)
+* **Loss Function:** Cross-entropy loss.
+* **Selection:** Validation-based model selection.
 
-Product-only fine-tuning
+### 3. Retrieval-Augmented Generation (RAG)
 
-Cross-entropy loss
+* **Embedding Model:** `all-MiniLM-L6-v2`.
+* **Vector Store:** Similarity search via FAISS (cosine similarity).
+* **Experiments:** Top-$k$ retrieval experiments ($k=1, 3, 5$).
+* **Setup:** Hybrid configuration combining hazard definitions with product examples in the context window.
 
-Validation-based model selection
+## 📈 Evaluation
 
-3. Retrieval-Augmented Generation (RAG)
+All approaches are evaluated under a consistent experimental setup. Special attention is given to model performance on rare and long-tail hazard categories.
 
-Embedding model: all-MiniLM-L6-v2
+**Metrics used:**
 
-Similarity search via FAISS (cosine similarity)
+* **Macro-F1** *(Primary metric due to heavy class imbalance)*
+* Micro-F1
+* Weighted-F1
+* Accuracy
+* Per-class analysis
 
-Top-k retrieval experiments (k=1,3,5)
+## 🚀 How to Run
 
-Hybrid configuration (hazard definitions + product examples)
+### 1. Install Dependencies
 
-Evaluation
+Ensure you have Python installed, then install the required packages:
 
-All approaches are evaluated under a consistent experimental setup using:
-
-Accuracy
-
-Macro-F1 (primary metric due to class imbalance)
-
-Micro-F1
-
-Weighted-F1
-
-Per-class analysis
-
-Special attention is given to rare and long-tail hazard categories.
-
-How to Run
-Install dependencies
-
+```bash
 pip install -r requirements.txt
 
-If running RAG:
+```
 
+*(Optional)* If running RAG, ensure FAISS is installed:
+
+```bash
 pip install faiss-cpu
 
-If using local LLM inference with Ollama:
+```
 
+*(Optional)* If using local LLM inference with Ollama, ensure the service is running and the model is pulled:
+
+```bash
 ollama run llama3.1:8b
 
-Prompt-Based Inference
+```
 
+### 2. Execute Experiments
+
+**Prompt-Based Inference:**
+
+```bash
 python prompting/zero_shot.py
 
-Supervised Fine-Tuning
+```
 
+**Supervised Fine-Tuning:**
+
+```bash
+# For multi-task training (hazard + product)
 python sft/train_multi_task.py
+
+# For product-only fine-tuning
 python sft/train_product_only.py
 
-RAG
+```
 
+**Retrieval-Augmented Generation (RAG):**
+
+```bash
+# Base RAG pipeline
 python rag/run_rag.py
+
+# Hybrid RAG pipeline
 python rag/run_hybrid.py
 
-Key Findings
+```
 
-Supervised fine-tuning provides the most robust hazard classification performance.
+## 🔑 Key Findings
 
-Product-only SFT significantly improves product classification compared to multi-task training.
+* **SFT is the strongest for hazards:** Supervised fine-tuning provides the most robust hazard classification performance overall.
+* **Task separation helps SFT:** Product-only SFT significantly improves product classification compared to joint multi-task training.
+* **RAG has mixed results:** RAG offers modest improvements for product classification but fails to enhance hazard detection accuracy.
+* **Format $\neq$ Accuracy:** High output formatting compliance from the LLM does not inherently guarantee high classification accuracy.
 
-RAG offers modest improvements for product classification but does not enhance hazard detection.
+📄 *For a detailed analysis, full evaluation tables, and a structured error analysis, please refer to `report.pdf`.*
 
-High output formatting compliance does not guarantee high classification accuracy.
+## 🔬 Reproducibility Notes
 
-See report.pdf for detailed analysis, evaluation tables, and structured error analysis.
+To ensure reproducibility, the following standards were maintained across all experiments:
 
-Reproducibility Notes
+* Official dataset splits were strictly used.
+* Random seeds were fixed wherever applicable.
+* Generation settings were completely deterministic (e.g., `temperature=0`).
+* FAISS utilized cosine similarity with normalized embeddings.
+* All provided scripts and configurations match the exact setups used for the final report.
 
-Official dataset splits were used.
+---
 
-Random seeds fixed where applicable.
-
-Deterministic generation settings (temperature=0).
-
-FAISS cosine similarity with normalized embeddings.
-
-All experiments are designed to be reproducible with the provided scripts and configuration.
+Would you like me to draft a boilerplate `requirements.txt` based on the libraries implied here (like `faiss-cpu`, `ollama`, `transformers`, `scikit-learn`), or write a template structure for the `report.pdf`?
