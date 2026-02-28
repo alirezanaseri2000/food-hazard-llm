@@ -97,18 +97,15 @@ ollama run llama3.1:8b
 **Prompt-Based Inference:**
 
 ```bash
-python prompting/zero_shot.py
+python prompting/filename.ipynb
 
 ```
 
 **Supervised Fine-Tuning:**
 
 ```bash
-# For multi-task training (hazard + product)
-python sft/train_multi_task.py
 
-# For product-only fine-tuning
-python sft/train_product_only.py
+python sft/SFT.ipynb
 
 ```
 
@@ -116,10 +113,10 @@ python sft/train_product_only.py
 
 ```bash
 # Base RAG pipeline
-python rag/run_rag.py
+python rag/RAG.ipynb
 
 # Hybrid RAG pipeline
-python rag/run_hybrid.py
+python rag/Hybrid Rag.ipynb
 
 ```
 
