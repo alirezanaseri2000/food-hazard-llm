@@ -77,12 +77,6 @@ All approaches are evaluated under a consistent experimental setup. Special atte
 
 ### 1. Install Dependencies
 
-Ensure you have Python installed, then install the required packages:
-
-```bash
-pip install -r requirements.txt
-
-```
 
 *(Optional)* If running RAG, ensure FAISS is installed:
 
