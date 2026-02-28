@@ -1,0 +1,1132 @@
+idx,parse_ok,haz_pred,prod_pred,haz_in_list,prod_in_list,haz_true,prod_true,latency_sec,error,raw_output
+0,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",2.37,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+1,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.536,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+2,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.535,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+3,True,allergens,ices and desserts,True,True,allergens,ices and desserts,0.548,,"hazard-category: allergens
+product-category: ices and desserts"
+4,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.555,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+5,True,foreign bodies,cereals and bakery products,True,True,foreign bodies,cereals and bakery products,0.536,,"hazard-category: foreign bodies
+product-category: cereals and bakery products"
+6,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.554,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+7,True,chemical,non-alcoholic beverages,True,True,packaging defect,alcoholic beverages,0.499,,"hazard-category: chemical
+product-category: non-alcoholic beverages"
+8,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,prepared dishes and snacks,0.552,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+9,True,biological,"meat, egg and dairy products",True,True,biological,seafood,0.545,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+10,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.555,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+11,True,packaging defect,non-alcoholic beverages,True,True,biological,alcoholic beverages,0.528,,"hazard-category: packaging defect
+product-category: non-alcoholic beverages"
+12,True,biological,prepared dishes and snacks,True,True,chemical,seafood,0.502,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+13,True,chemical,prepared dishes and snacks,True,True,chemical,"soups, broths, sauces and condiments",0.495,,"hazard-category: chemical
+product-category: prepared dishes and snacks"
+14,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,cereals and bakery products,0.518,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+15,True,chemical,fats and oils,True,True,chemical,fats and oils,0.549,,"hazard-category: chemical
+product-category: fats and oils"
+16,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.673,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+17,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.542,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+18,True,biological,prepared dishes and snacks,True,True,fraud,cereals and bakery products,0.498,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+19,True,biological,non-alcoholic beverages,True,True,biological,non-alcoholic beverages,0.626,,"hazard-category: biological
+product-category: non-alcoholic beverages"
+20,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.555,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+21,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.546,,"hazard-category: allergens
+product-category: cereals and bakery products"
+22,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,prepared dishes and snacks,0.516,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+23,True,allergens,confectionery,True,True,allergens,confectionery,0.526,,"hazard-category: allergens
+product-category: confectionery"
+24,True,allergens,prepared dishes and snacks,True,True,fraud,"soups, broths, sauces and condiments",0.527,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+25,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"soups, broths, sauces and condiments",0.536,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+26,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.548,,"hazard-category: allergens
+product-category: cereals and bakery products"
+27,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.543,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+28,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.573,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+29,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.552,,"hazard-category: allergens
+product-category: cereals and bakery products"
+30,True,biological,prepared dishes and snacks,True,True,biological,ices and desserts,0.502,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+31,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.545,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+32,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.552,,"hazard-category: allergens
+product-category: cereals and bakery products"
+33,True,chemical,non-alcoholic beverages,True,True,chemical,non-alcoholic beverages,0.619,,"hazard-category: chemical
+product-category: non-alcoholic beverages"
+34,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.642,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+35,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.71,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+36,True,biological,prepared dishes and snacks,True,True,foreign bodies,cereals and bakery products,0.501,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+37,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.571,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+38,True,biological,"meat, egg and dairy products",True,True,chemical,seafood,0.535,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+39,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.549,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+40,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.532,,"hazard-category: allergens
+product-category: cereals and bakery products"
+41,True,biological,non-alcoholic beverages,True,True,other hazard,non-alcoholic beverages,0.539,,"hazard-category: biological
+product-category: non-alcoholic beverages"
+42,True,biological,prepared dishes and snacks,True,True,biological,seafood,0.495,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+43,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",1.29,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+44,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,prepared dishes and snacks,0.539,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+45,True,allergens,prepared dishes and snacks,True,True,allergens,other food product / mixed,0.678,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+46,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.527,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+47,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.529,,"hazard-category: allergens
+product-category: cereals and bakery products"
+48,True,allergens,prepared dishes and snacks,True,True,allergens,ices and desserts,0.55,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+49,True,foreign bodies,fruits and vegetables,True,True,foreign bodies,fruits and vegetables,0.517,,"hazard-category: foreign bodies
+product-category: fruits and vegetables"
+50,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,fruits and vegetables,0.654,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+51,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,fruits and vegetables,0.523,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+52,True,fraud,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.612,,"hazard-category: fraud
+product-category: meat, egg and dairy products"
+53,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,cereals and bakery products,0.511,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+54,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,prepared dishes and snacks,0.533,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+55,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.503,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+56,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.528,,"hazard-category: allergens
+product-category: cereals and bakery products"
+57,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.531,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+58,True,biological,prepared dishes and snacks,True,True,chemical,prepared dishes and snacks,0.541,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+59,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,confectionery,0.588,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+60,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,cereals and bakery products,0.517,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+61,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.536,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+62,True,allergens,herbs and spices,True,True,fraud,herbs and spices,0.496,,"hazard-category: allergens
+product-category: herbs and spices"
+63,True,biological,prepared dishes and snacks,True,True,biological,ices and desserts,0.617,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+64,True,biological,prepared dishes and snacks,True,True,biological,ices and desserts,0.57,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+65,True,biological,prepared dishes and snacks,True,True,biological,ices and desserts,0.633,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+66,True,biological,prepared dishes and snacks,True,True,biological,ices and desserts,0.575,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+67,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.806,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+68,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.57,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+69,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"soups, broths, sauces and condiments",0.563,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+70,True,allergens,prepared dishes and snacks,True,True,fraud,"nuts, nut products and seeds",0.522,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+71,True,biological,"meat, egg and dairy products",True,True,other hazard,"meat, egg and dairy products",0.608,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+72,True,allergens,prepared dishes and snacks,True,True,fraud,ices and desserts,0.559,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+73,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",1.194,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+74,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.734,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+75,True,biological,fruits and vegetables,True,True,biological,fruits and vegetables,0.532,,"hazard-category: biological
+product-category: fruits and vegetables"
+76,True,food additives and flavourings,confectionery,True,True,allergens,cereals and bakery products,0.57,,"hazard-category: food additives and flavourings
+product-category: confectionery"
+77,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.587,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+78,True,biological,fruits and vegetables,True,True,biological,"soups, broths, sauces and condiments",0.455,,"hazard-category: biological
+product-category: fruits and vegetables"
+79,True,foreign bodies,confectionery,True,True,food additives and flavourings,confectionery,0.515,,"hazard-category: foreign bodies
+product-category: confectionery"
+80,True,foreign bodies,cereals and bakery products,True,True,foreign bodies,cereals and bakery products,0.536,,"hazard-category: foreign bodies
+product-category: cereals and bakery products"
+81,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.507,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+82,True,allergens,non-alcoholic beverages,True,True,allergens,"meat, egg and dairy products",0.559,,"hazard-category: allergens
+product-category: non-alcoholic beverages"
+83,True,chemical,"meat, egg and dairy products",True,True,other hazard,"meat, egg and dairy products",0.631,,"hazard-category: chemical
+product-category: meat, egg and dairy products"
+84,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.73,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+85,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.649,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+86,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.57,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+87,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.537,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+88,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.82,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+89,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.688,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+90,True,biological,fruits and vegetables,True,True,biological,fruits and vegetables,0.553,,"hazard-category: biological
+product-category: fruits and vegetables"
+91,True,allergens,confectionery,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.575,,"hazard-category: allergens
+product-category: confectionery"
+92,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.649,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+93,True,foreign bodies,alcoholic beverages,True,True,packaging defect,alcoholic beverages,0.532,,"hazard-category: foreign bodies
+product-category: alcoholic beverages"
+94,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.614,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+95,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.549,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+96,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,ices and desserts,0.572,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+97,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.787,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+98,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.589,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+99,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.653,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+100,True,biological,prepared dishes and snacks,True,True,biological,ices and desserts,0.729,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+101,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.518,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+102,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.564,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+103,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.591,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+104,True,food additives and flavourings,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.73,,"hazard-category: food additives and flavourings
+product-category: meat, egg and dairy products"
+105,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,1.199,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+106,True,allergens,confectionery,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.539,,"hazard-category: allergens
+product-category: confectionery"
+107,True,biological,prepared dishes and snacks,True,True,organoleptic aspects,alcoholic beverages,0.537,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+108,True,food additives and flavourings,fruits and vegetables,True,True,allergens,fruits and vegetables,0.645,,"hazard-category: food additives and flavourings
+product-category: fruits and vegetables"
+109,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.654,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+110,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,prepared dishes and snacks,0.656,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+111,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.564,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+112,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.673,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+113,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.638,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+114,True,biological,prepared dishes and snacks,True,True,biological,herbs and spices,1.022,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+115,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.539,,"hazard-category: allergens
+product-category: confectionery"
+116,True,other hazard,"dietetic foods, food supplements, fortified foods",True,True,chemical,"dietetic foods, food supplements, fortified foods",0.925,,"hazard-category: other hazard
+product-category: dietetic foods, food supplements, fortified foods"
+117,True,biological,"nuts, nut products and seeds",True,True,biological,"nuts, nut products and seeds",0.543,,"hazard-category: biological
+product-category: nuts, nut products and seeds"
+118,True,biological,"nuts, nut products and seeds",True,True,biological,"nuts, nut products and seeds",0.61,,"hazard-category: biological
+product-category: nuts, nut products and seeds"
+119,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.623,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+120,True,biological,"meat, egg and dairy products",True,True,biological,"nuts, nut products and seeds",0.788,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+121,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.568,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+122,True,biological,prepared dishes and snacks,True,True,biological,confectionery,0.662,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+123,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.629,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+124,True,biological,prepared dishes and snacks,True,True,biological,confectionery,0.572,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+125,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.531,,"hazard-category: allergens
+product-category: confectionery"
+126,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.655,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+127,True,chemical,"dietetic foods, food supplements, fortified foods",True,True,chemical,"dietetic foods, food supplements, fortified foods",0.668,,"hazard-category: chemical
+product-category: dietetic foods, food supplements, fortified foods"
+128,True,other hazard,"meat, egg and dairy products",True,True,fraud,other food product / mixed,0.683,,"hazard-category: other hazard
+product-category: meat, egg and dairy products"
+129,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,ices and desserts,0.605,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+130,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.53,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+131,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.835,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+132,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.618,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+133,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.685,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+134,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.548,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+135,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.548,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+136,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.568,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+137,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.579,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+138,True,fraud,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.63,,"hazard-category: fraud
+product-category: meat, egg and dairy products"
+139,True,allergens,prepared dishes and snacks,True,True,allergens,ices and desserts,0.509,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+140,True,biological,"meat, egg and dairy products",True,True,chemical,seafood,0.535,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+141,True,other hazard,prepared dishes and snacks,True,True,other hazard,"meat, egg and dairy products",0.637,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+142,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.778,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+143,True,allergens,cereals and bakery products,True,True,allergens,prepared dishes and snacks,0.586,,"hazard-category: allergens
+product-category: cereals and bakery products"
+144,True,biological,"meat, egg and dairy products",True,True,other hazard,"meat, egg and dairy products",0.654,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+145,True,allergens,cereals and bakery products,True,True,allergens,prepared dishes and snacks,0.7,,"hazard-category: allergens
+product-category: cereals and bakery products"
+146,True,other hazard,prepared dishes and snacks,True,True,other hazard,"meat, egg and dairy products",0.646,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+147,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.564,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+148,True,allergens,prepared dishes and snacks,True,True,allergens,"nuts, nut products and seeds",0.593,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+149,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.805,,"hazard-category: biological
+
+product-category: prepared dishes and snacks"
+150,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.503,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+151,True,biological,prepared dishes and snacks,True,True,biological,"soups, broths, sauces and condiments",0.519,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+152,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.687,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+153,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.612,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+154,True,other hazard,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.707,,"hazard-category: other hazard
+product-category: meat, egg and dairy products"
+155,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.606,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+156,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.638,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+157,True,allergens,"nuts, nut products and seeds",True,True,allergens,"nuts, nut products and seeds",0.607,,"hazard-category: allergens
+product-category: nuts, nut products and seeds"
+158,True,allergens,confectionery,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.569,,"hazard-category: allergens
+product-category: confectionery"
+159,False,chemical,,True,False,allergens,fruits and vegetables,0.513,,"hazard-category: chemical
+product-category: dried fruits"
+160,True,chemical,fruits and vegetables,True,True,allergens,fruits and vegetables,0.55,,"hazard-category: chemical
+product-category: fruits and vegetables"
+161,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.813,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+162,True,allergens,prepared dishes and snacks,True,True,fraud,ices and desserts,0.558,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+163,True,biological,prepared dishes and snacks,True,True,biological,"soups, broths, sauces and condiments",0.655,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+164,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.745,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+165,True,fraud,prepared dishes and snacks,True,True,fraud,"meat, egg and dairy products",0.586,,"hazard-category: fraud
+product-category: prepared dishes and snacks"
+166,True,chemical,fats and oils,True,True,chemical,fats and oils,0.557,,"hazard-category: chemical
+product-category: fats and oils"
+167,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.641,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+168,True,biological,prepared dishes and snacks,True,True,biological,seafood,0.477,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+169,True,biological,prepared dishes and snacks,True,True,biological,herbs and spices,0.656,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+170,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"soups, broths, sauces and condiments",0.589,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+171,True,allergens,prepared dishes and snacks,True,True,allergens,"dietetic foods, food supplements, fortified foods",0.571,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+172,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.817,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+173,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.565,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+174,True,allergens,non-alcoholic beverages,True,True,allergens,non-alcoholic beverages,0.546,,"hazard-category: allergens
+product-category: non-alcoholic beverages"
+175,True,packaging defect,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.673,,"hazard-category: packaging defect
+product-category: meat, egg and dairy products"
+176,True,allergens,other food product / mixed,True,True,allergens,non-alcoholic beverages,0.547,,"hazard-category: allergens
+product-category: other food product / mixed"
+177,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.551,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+178,True,allergens,prepared dishes and snacks,True,True,allergens,non-alcoholic beverages,0.525,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+179,True,organoleptic aspects,prepared dishes and snacks,True,True,organoleptic aspects,"meat, egg and dairy products",0.686,,"hazard-category: organoleptic aspects
+product-category: prepared dishes and snacks"
+180,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,confectionery,0.523,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+181,True,biological,"meat, egg and dairy products",True,True,biological,seafood,0.658,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+182,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.608,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+183,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.58,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+184,True,biological,prepared dishes and snacks,True,True,biological,other food product / mixed,0.587,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+185,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,prepared dishes and snacks,0.584,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+186,True,biological,"meat, egg and dairy products",True,True,fraud,prepared dishes and snacks,0.633,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+187,True,allergens,prepared dishes and snacks,True,True,allergens,confectionery,0.558,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+188,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.594,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+189,True,biological,"meat, egg and dairy products",True,True,biological,"nuts, nut products and seeds",1.06,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+190,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.553,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+191,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.572,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+192,True,biological,fats and oils,True,True,biological,"nuts, nut products and seeds",0.554,,"hazard-category: biological
+product-category: fats and oils"
+193,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.612,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+194,True,allergens,"nuts, nut products and seeds",True,True,allergens,"nuts, nut products and seeds",0.606,,"hazard-category: allergens
+product-category: nuts, nut products and seeds"
+195,True,allergens,prepared dishes and snacks,True,True,allergens,herbs and spices,0.539,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+196,True,allergens,prepared dishes and snacks,True,True,allergens,herbs and spices,0.559,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+197,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.573,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+198,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.983,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+199,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.56,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+200,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.55,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+201,True,allergens,other food product / mixed,True,True,allergens,"dietetic foods, food supplements, fortified foods",0.592,,"hazard-category: allergens
+product-category: other food product / mixed"
+202,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",1.404,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+203,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.662,,"hazard-category: allergens
+product-category: confectionery"
+204,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.575,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+205,True,allergens,prepared dishes and snacks,True,True,allergens,non-alcoholic beverages,0.733,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+206,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.868,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+207,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.858,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+208,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.572,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+209,True,biological,fruits and vegetables,True,True,biological,fruits and vegetables,0.484,,"hazard-category: biological
+product-category: fruits and vegetables"
+210,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.571,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+211,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,1.072,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+212,True,biological,prepared dishes and snacks,True,True,biological,"cocoa and cocoa preparations, coffee and tea",0.552,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+213,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.619,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+214,True,biological,"nuts, nut products and seeds",True,True,biological,"nuts, nut products and seeds",0.591,,"hazard-category: biological
+product-category: nuts, nut products and seeds"
+215,True,allergens,prepared dishes and snacks,True,True,allergens,ices and desserts,0.589,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+216,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.784,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+217,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.86,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+218,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.549,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+219,True,biological,"meat, egg and dairy products",True,True,fraud,seafood,0.948,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+220,True,allergens,confectionery,True,True,allergens,confectionery,0.551,,"hazard-category: allergens
+product-category: confectionery"
+221,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.889,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+222,True,allergens,"dietetic foods, food supplements, fortified foods",True,True,allergens,"dietetic foods, food supplements, fortified foods",0.739,,"hazard-category: allergens
+product-category: dietetic foods, food supplements, fortified foods"
+223,True,fraud,prepared dishes and snacks,True,True,allergens,seafood,0.725,,"hazard-category: fraud
+product-category: prepared dishes and snacks"
+224,True,foreign bodies,other food product / mixed,True,True,foreign bodies,herbs and spices,0.565,,"hazard-category: foreign bodies
+product-category: other food product / mixed"
+225,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.721,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+226,True,biological,prepared dishes and snacks,True,True,fraud,"meat, egg and dairy products",0.984,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+227,True,biological,"nuts, nut products and seeds",True,True,biological,"nuts, nut products and seeds",0.686,,"hazard-category: biological
+product-category: nuts, nut products and seeds"
+228,True,biological,cereals and bakery products,True,True,biological,"nuts, nut products and seeds",0.762,,"hazard-category: biological
+product-category: cereals and bakery products"
+229,True,biological,cereals and bakery products,True,True,biological,"nuts, nut products and seeds",0.611,,"hazard-category: biological
+product-category: cereals and bakery products"
+230,True,allergens,prepared dishes and snacks,True,True,allergens,ices and desserts,0.611,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+231,True,biological,"meat, egg and dairy products",True,True,biological,seafood,0.61,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+232,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.712,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+233,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.604,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+234,True,biological,prepared dishes and snacks,True,True,other hazard,"meat, egg and dairy products",0.625,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+235,True,allergens,confectionery,True,True,allergens,"nuts, nut products and seeds",0.549,,"hazard-category: allergens
+product-category: confectionery"
+236,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,1.566,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+237,True,other hazard,prepared dishes and snacks,True,True,fraud,fruits and vegetables,0.517,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+238,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.542,,"hazard-category: allergens
+product-category: confectionery"
+239,True,allergens,prepared dishes and snacks,True,True,allergens,ices and desserts,0.573,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+240,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.549,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+241,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.833,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+242,True,biological,prepared dishes and snacks,True,True,organoleptic aspects,"soups, broths, sauces and condiments",0.505,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+243,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.661,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+244,True,biological,prepared dishes and snacks,True,True,biological,confectionery,1.101,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+245,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.645,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+246,True,allergens,"nuts, nut products and seeds",True,True,allergens,"nuts, nut products and seeds",0.63,,"hazard-category: allergens
+product-category: nuts, nut products and seeds"
+247,True,allergens,prepared dishes and snacks,True,True,allergens,fruits and vegetables,0.534,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+248,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.543,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+249,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.567,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+250,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,other food product / mixed,0.589,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+251,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.609,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+252,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.804,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+253,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.651,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+254,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.777,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+255,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.798,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+256,True,chemical,prepared dishes and snacks,True,True,chemical,"soups, broths, sauces and condiments",0.54,,"hazard-category: chemical
+product-category: prepared dishes and snacks"
+257,True,chemical,"meat, egg and dairy products",True,True,chemical,seafood,0.7,,"hazard-category: chemical
+product-category: meat, egg and dairy products"
+258,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.637,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+259,True,biological,prepared dishes and snacks,True,True,biological,ices and desserts,0.815,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+260,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.664,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+261,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.853,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+262,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.707,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+263,True,biological,prepared dishes and snacks,True,True,biological,herbs and spices,0.55,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+264,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.747,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+265,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.856,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+266,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.725,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+267,True,biological,other food product / mixed,True,True,biological,cereals and bakery products,0.643,,"hazard-category: biological
+product-category: other food product / mixed"
+268,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.651,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+269,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.59,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+270,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.555,,"hazard-category: allergens
+product-category: confectionery"
+271,True,allergens,prepared dishes and snacks,True,True,packaging defect,prepared dishes and snacks,0.608,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+272,True,allergens,confectionery,True,True,allergens,herbs and spices,0.497,,"hazard-category: allergens
+product-category: confectionery"
+273,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,prepared dishes and snacks,0.533,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+274,True,packaging defect,"meat, egg and dairy products",True,True,other hazard,"meat, egg and dairy products",0.64,,"hazard-category: packaging defect
+product-category: meat, egg and dairy products"
+275,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.665,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+276,True,other hazard,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.687,,"hazard-category: other hazard
+product-category: meat, egg and dairy products"
+277,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.495,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+278,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.677,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+279,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,cereals and bakery products,0.509,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+280,True,allergens,confectionery,True,True,allergens,confectionery,0.571,,"hazard-category: allergens
+product-category: confectionery"
+281,True,allergens,cereals and bakery products,True,True,allergens,other food product / mixed,0.627,,"hazard-category: allergens
+product-category: cereals and bakery products"
+282,True,allergens,alcoholic beverages,True,True,allergens,alcoholic beverages,0.557,,"hazard-category: allergens
+product-category: alcoholic beverages"
+283,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.61,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+284,True,other hazard,prepared dishes and snacks,True,True,other hazard,"nuts, nut products and seeds",0.527,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+285,True,biological,prepared dishes and snacks,True,True,biological,"soups, broths, sauces and condiments",0.509,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+286,True,allergens,confectionery,True,True,allergens,confectionery,0.596,,"hazard-category: allergens
+product-category: confectionery"
+287,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.653,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+288,True,allergens,prepared dishes and snacks,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.592,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+289,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.549,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+290,True,biological,"meat, egg and dairy products",True,True,biological,seafood,0.672,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+291,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.517,,"hazard-category: allergens
+product-category: confectionery"
+292,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.668,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+293,True,other hazard,prepared dishes and snacks,True,True,fraud,"meat, egg and dairy products",0.681,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+294,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.641,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+295,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.677,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+296,True,allergens,other food product / mixed,True,True,allergens,non-alcoholic beverages,0.543,,"hazard-category: allergens
+product-category: other food product / mixed"
+297,True,allergens,prepared dishes and snacks,True,True,allergens,confectionery,0.598,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+298,True,allergens,prepared dishes and snacks,True,True,allergens,confectionery,0.525,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+299,True,fraud,prepared dishes and snacks,True,True,fraud,prepared dishes and snacks,0.622,,"hazard-category: fraud
+product-category: prepared dishes and snacks"
+300,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.557,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+301,True,biological,prepared dishes and snacks,True,True,biological,confectionery,0.663,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+302,True,allergens,"dietetic foods, food supplements, fortified foods",True,True,allergens,seafood,0.721,,"hazard-category: allergens
+product-category: dietetic foods, food supplements, fortified foods"
+303,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.652,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+304,True,biological,other food product / mixed,True,True,other hazard,cereals and bakery products,0.517,,"hazard-category: biological
+product-category: other food product / mixed"
+305,True,allergens,prepared dishes and snacks,True,True,allergens,herbs and spices,0.545,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+306,True,organoleptic aspects,"meat, egg and dairy products",True,True,organoleptic aspects,"soups, broths, sauces and condiments",0.633,,"hazard-category: organoleptic aspects
+product-category: meat, egg and dairy products"
+307,True,biological,confectionery,True,True,foreign bodies,confectionery,0.532,,"hazard-category: biological
+product-category: confectionery"
+308,True,biological,herbs and spices,True,True,biological,herbs and spices,0.532,,"hazard-category: biological
+product-category: herbs and spices"
+309,True,chemical,prepared dishes and snacks,True,True,chemical,fruits and vegetables,0.53,,"hazard-category: chemical
+product-category: prepared dishes and snacks"
+310,True,biological,prepared dishes and snacks,True,True,biological,"soups, broths, sauces and condiments",0.78,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+311,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.634,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+312,False,biological,,True,False,biological,herbs and spices,0.552,,"hazard-category: biological
+product-category: spices and seasonings"
+313,True,allergens,prepared dishes and snacks,True,True,allergens,ices and desserts,0.568,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+314,True,other hazard,prepared dishes and snacks,True,True,other hazard,confectionery,0.593,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+315,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.833,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+316,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.549,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+317,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.64,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+318,True,biological,other food product / mixed,True,True,biological,"dietetic foods, food supplements, fortified foods",0.885,,"hazard-category: biological
+product-category: other food product / mixed"
+319,True,foreign bodies,fats and oils,True,True,foreign bodies,fats and oils,0.592,,"hazard-category: foreign bodies
+product-category: fats and oils"
+320,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.607,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+321,True,packaging defect,non-alcoholic beverages,True,True,packaging defect,non-alcoholic beverages,0.758,,"hazard-category: packaging defect
+product-category: non-alcoholic beverages"
+322,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.671,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+323,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"cocoa and cocoa preparations, coffee and tea",0.676,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+324,True,other hazard,prepared dishes and snacks,True,True,fraud,prepared dishes and snacks,0.71,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+325,True,chemical,food additives and flavourings,True,True,food additives and flavourings,herbs and spices,0.56,,"hazard-category: chemical
+product-category: food additives and flavourings"
+326,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.628,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+327,True,fraud,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.661,,"hazard-category: fraud
+product-category: meat, egg and dairy products"
+328,True,organoleptic aspects,non-alcoholic beverages,True,True,organoleptic aspects,non-alcoholic beverages,1.028,,"hazard-category: organoleptic aspects
+product-category: non-alcoholic beverages"
+329,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.501,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+330,True,biological,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.658,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+331,True,allergens,non-alcoholic beverages,True,True,allergens,alcoholic beverages,0.537,,"hazard-category: allergens
+product-category: non-alcoholic beverages"
+332,True,allergens,prepared dishes and snacks,True,True,fraud,"meat, egg and dairy products",0.639,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+333,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.751,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+334,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.618,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+335,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.663,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+336,True,allergens,prepared dishes and snacks,True,True,allergens,"nuts, nut products and seeds",0.727,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+337,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.661,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+338,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.577,,"hazard-category: allergens
+product-category: cereals and bakery products"
+339,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,seafood,0.513,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+340,True,allergens,prepared dishes and snacks,True,True,allergens,seafood,0.592,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+341,True,biological,"meat, egg and dairy products",True,True,fraud,prepared dishes and snacks,0.659,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+342,True,chemical,non-alcoholic beverages,True,True,chemical,non-alcoholic beverages,0.506,,"hazard-category: chemical
+product-category: non-alcoholic beverages"
+343,True,fraud,non-alcoholic beverages,True,True,fraud,non-alcoholic beverages,0.529,,"hazard-category: fraud
+product-category: non-alcoholic beverages"
+344,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.538,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+345,True,biological,prepared dishes and snacks,True,True,organoleptic aspects,"soups, broths, sauces and condiments",0.506,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+346,True,allergens,confectionery,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.758,,"hazard-category: allergens
+product-category: confectionery"
+347,True,allergens,fruits and vegetables,True,True,allergens,fruits and vegetables,0.572,,"hazard-category: allergens
+product-category: fruits and vegetables"
+348,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.657,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+349,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.638,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+350,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.615,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+351,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.775,,"hazard-category: allergens
+product-category: confectionery"
+352,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.669,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+353,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.847,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+354,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.648,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+355,True,allergens,confectionery,True,True,allergens,confectionery,0.59,,"hazard-category: allergens
+product-category: confectionery"
+356,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.654,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+357,True,allergens,"meat, egg and dairy products",True,True,allergens,"dietetic foods, food supplements, fortified foods",0.668,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+358,True,biological,prepared dishes and snacks,True,True,organoleptic aspects,"soups, broths, sauces and condiments",0.571,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+359,True,foreign bodies,cereals and bakery products,True,True,foreign bodies,cereals and bakery products,0.542,,"hazard-category: foreign bodies
+product-category: cereals and bakery products"
+360,True,biological,fruits and vegetables,True,True,foreign bodies,fruits and vegetables,0.481,,"hazard-category: biological
+product-category: fruits and vegetables"
+361,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.653,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+362,True,allergens,prepared dishes and snacks,True,True,fraud,"meat, egg and dairy products",0.657,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+363,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.77,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+364,True,allergens,prepared dishes and snacks,True,True,allergens,herbs and spices,0.559,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+365,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.763,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+366,True,other hazard,"meat, egg and dairy products",True,True,fraud,seafood,0.733,,"hazard-category: other hazard
+product-category: meat, egg and dairy products"
+367,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.525,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+368,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.723,,"hazard-category: allergens
+product-category: cereals and bakery products"
+369,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.816,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+370,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.718,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+371,True,foreign bodies,non-alcoholic beverages,True,True,foreign bodies,non-alcoholic beverages,0.605,,"hazard-category: foreign bodies
+product-category: non-alcoholic beverages"
+372,True,biological,fruits and vegetables,True,True,biological,fruits and vegetables,0.575,,"hazard-category: biological
+product-category: fruits and vegetables"
+373,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.558,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+374,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.591,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+375,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.729,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+376,True,allergens,prepared dishes and snacks,True,True,allergens,"nuts, nut products and seeds",0.729,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+377,True,biological,other food product / mixed,True,True,biological,fruits and vegetables,0.526,,"hazard-category: biological
+product-category: other food product / mixed"
+378,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.644,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+379,True,allergens,prepared dishes and snacks,True,True,allergens,seafood,0.536,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+380,True,biological,"meat, egg and dairy products",True,True,biological,seafood,0.659,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+381,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"soups, broths, sauces and condiments",0.643,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+382,True,allergens,prepared dishes and snacks,True,True,allergens,"nuts, nut products and seeds",0.636,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+383,True,other hazard,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.77,,"hazard-category: other hazard
+product-category: meat, egg and dairy products"
+384,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.612,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+385,True,allergens,prepared dishes and snacks,True,True,allergens,herbs and spices,0.794,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+386,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,prepared dishes and snacks,0.668,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+387,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.592,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+388,True,chemical,non-alcoholic beverages,True,True,chemical,non-alcoholic beverages,0.637,,"hazard-category: chemical
+product-category: non-alcoholic beverages"
+389,True,allergens,prepared dishes and snacks,True,True,fraud,prepared dishes and snacks,0.657,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+390,True,packaging defect,prepared dishes and snacks,True,True,packaging defect,non-alcoholic beverages,0.751,,"hazard-category: packaging defect
+product-category: prepared dishes and snacks"
+391,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.666,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+392,True,allergens,confectionery,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.685,,"hazard-category: allergens
+product-category: confectionery"
+393,True,allergens,confectionery,True,True,allergens,fruits and vegetables,0.538,,"hazard-category: allergens
+product-category: confectionery"
+394,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.648,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+395,True,allergens,other food product / mixed,True,True,allergens,fruits and vegetables,0.611,,"hazard-category: allergens
+product-category: other food product / mixed"
+396,True,allergens,"dietetic foods, food supplements, fortified foods",True,True,allergens,fruits and vegetables,0.735,,"hazard-category: allergens
+product-category: dietetic foods, food supplements, fortified foods"
+397,True,allergens,prepared dishes and snacks,True,True,allergens,confectionery,0.559,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+398,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.679,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+399,False,biological,,True,False,biological,herbs and spices,0.613,,"hazard-category: biological
+product-category: spices and seasonings"
+400,True,allergens,prepared dishes and snacks,True,True,allergens,"meat, egg and dairy products",0.753,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+401,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.589,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+402,True,biological,cereals and bakery products,True,True,biological,cereals and bakery products,0.571,,"hazard-category: biological
+product-category: cereals and bakery products"
+403,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.65,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+404,True,allergens,"meat, egg and dairy products",True,True,fraud,"meat, egg and dairy products",0.77,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+405,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.979,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+406,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",1.546,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+407,True,biological,prepared dishes and snacks,True,True,other hazard,"soups, broths, sauces and condiments",0.854,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+408,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.693,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+409,True,allergens,confectionery,True,True,allergens,ices and desserts,0.572,,"hazard-category: allergens
+product-category: confectionery"
+410,True,biological,non-alcoholic beverages,True,True,biological,non-alcoholic beverages,0.639,,"hazard-category: biological
+product-category: non-alcoholic beverages"
+411,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.636,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+412,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.664,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+413,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.732,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+414,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.668,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+415,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.691,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+416,True,allergens,"nuts, nut products and seeds",True,True,allergens,"nuts, nut products and seeds",0.627,,"hazard-category: allergens
+product-category: nuts, nut products and seeds"
+417,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.536,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+418,True,allergens,"dietetic foods, food supplements, fortified foods",True,True,allergens,"meat, egg and dairy products",0.814,,"hazard-category: allergens
+product-category: dietetic foods, food supplements, fortified foods"
+419,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.554,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+420,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.542,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+421,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.669,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+422,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.685,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+423,True,biological,prepared dishes and snacks,True,True,biological,"soups, broths, sauces and condiments",0.572,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+424,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.576,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+425,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.613,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+426,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.547,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+427,True,allergens,prepared dishes and snacks,True,True,allergens,"dietetic foods, food supplements, fortified foods",0.591,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+428,True,biological,seafood,True,True,biological,seafood,0.659,,"hazard-category: biological
+product-category: seafood"
+429,True,allergens,non-alcoholic beverages,True,True,allergens,non-alcoholic beverages,0.68,,"hazard-category: allergens
+product-category: non-alcoholic beverages"
+430,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.716,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+431,True,other hazard,prepared dishes and snacks,True,True,fraud,"meat, egg and dairy products",0.728,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+432,True,allergens,prepared dishes and snacks,True,True,allergens,seafood,0.728,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+433,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.727,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+434,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.765,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+435,True,allergens,"nuts, nut products and seeds",True,True,allergens,"nuts, nut products and seeds",0.65,,"hazard-category: allergens
+product-category: nuts, nut products and seeds"
+436,True,allergens,confectionery,True,True,fraud,cereals and bakery products,0.572,,"hazard-category: allergens
+product-category: confectionery"
+437,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.551,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+438,True,biological,"meat, egg and dairy products",True,True,biological,seafood,0.686,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+439,True,allergens,other food product / mixed,True,True,allergens,fruits and vegetables,0.61,,"hazard-category: allergens
+product-category: other food product / mixed"
+440,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.716,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+441,True,biological,fruits and vegetables,True,True,biological,fruits and vegetables,0.556,,"hazard-category: biological
+product-category: fruits and vegetables"
+442,True,biological,non-alcoholic beverages,True,True,chemical,non-alcoholic beverages,0.57,,"hazard-category: biological
+product-category: non-alcoholic beverages"
+443,True,other hazard,prepared dishes and snacks,True,True,fraud,cereals and bakery products,0.561,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+444,True,packaging defect,prepared dishes and snacks,True,True,packaging defect,seafood,0.608,,"hazard-category: packaging defect
+product-category: prepared dishes and snacks"
+445,True,biological,prepared dishes and snacks,True,True,biological,"soups, broths, sauces and condiments",0.572,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+446,True,allergens,prepared dishes and snacks,True,True,fraud,cereals and bakery products,0.594,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+447,True,other hazard,prepared dishes and snacks,True,True,fraud,cereals and bakery products,0.661,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+448,True,allergens,"meat, egg and dairy products",True,True,allergens,seafood,0.755,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+449,True,allergens,ices and desserts,True,True,allergens,ices and desserts,0.704,,"hazard-category: allergens
+product-category: ices and desserts"
+450,True,biological,other food product / mixed,True,True,biological,herbs and spices,0.592,,"hazard-category: biological
+product-category: other food product / mixed"
+451,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.551,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+452,True,allergens,food additives and flavourings,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.556,,"hazard-category: allergens
+product-category: food additives and flavourings"
+453,True,allergens,prepared dishes and snacks,True,True,allergens,seafood,0.547,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+454,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,1.008,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+455,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.733,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+456,True,biological,fruits and vegetables,True,True,biological,fruits and vegetables,0.605,,"hazard-category: biological
+product-category: fruits and vegetables"
+457,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.571,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+458,True,biological,"meat, egg and dairy products",True,True,biological,prepared dishes and snacks,0.781,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+459,True,allergens,prepared dishes and snacks,True,True,allergens,confectionery,0.561,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+460,True,allergens,confectionery,True,True,allergens,confectionery,0.531,,"hazard-category: allergens
+product-category: confectionery"
+461,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.798,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+462,True,foreign bodies,"meat, egg and dairy products",True,True,foreign bodies,"meat, egg and dairy products",0.696,,"hazard-category: foreign bodies
+product-category: meat, egg and dairy products"
+463,True,allergens,prepared dishes and snacks,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.646,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+464,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.547,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+465,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.714,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+466,True,organoleptic aspects,"meat, egg and dairy products",True,True,chemical,"meat, egg and dairy products",0.646,,"hazard-category: organoleptic aspects
+product-category: meat, egg and dairy products"
+467,True,chemical,prepared dishes and snacks,True,True,chemical,herbs and spices,0.551,,"hazard-category: chemical
+product-category: prepared dishes and snacks"
+468,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,cereals and bakery products,0.558,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+469,True,biological,alcoholic beverages,True,True,biological,non-alcoholic beverages,0.658,,"hazard-category: biological
+product-category: alcoholic beverages"
+470,True,biological,prepared dishes and snacks,True,True,biological,confectionery,0.65,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+471,True,chemical,confectionery,True,True,chemical,cereals and bakery products,0.604,,"hazard-category: chemical
+product-category: confectionery"
+472,True,biological,fruits and vegetables,True,True,biological,fruits and vegetables,0.609,,"hazard-category: biological
+product-category: fruits and vegetables"
+473,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.561,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+474,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.56,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+475,True,allergens,cereals and bakery products,True,True,allergens,"soups, broths, sauces and condiments",0.569,,"hazard-category: allergens
+product-category: cereals and bakery products"
+476,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.728,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+477,True,chemical,cereals and bakery products,True,True,chemical,"nuts, nut products and seeds",0.606,,"hazard-category: chemical
+product-category: cereals and bakery products"
+478,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,prepared dishes and snacks,0.655,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+479,True,allergens,prepared dishes and snacks,True,True,allergens,fruits and vegetables,0.594,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+480,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.575,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+481,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.676,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+482,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.536,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+483,True,biological,fruits and vegetables,True,True,biological,fruits and vegetables,0.617,,"hazard-category: biological
+product-category: fruits and vegetables"
+484,True,allergens,prepared dishes and snacks,True,True,allergens,other food product / mixed,0.705,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+485,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.556,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+486,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.571,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+487,True,foreign bodies,other food product / mixed,True,True,foreign bodies,"soups, broths, sauces and condiments",0.558,,"hazard-category: foreign bodies
+product-category: other food product / mixed"
+488,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.528,,"hazard-category: allergens
+product-category: confectionery"
+489,True,chemical,non-alcoholic beverages,True,True,chemical,"dietetic foods, food supplements, fortified foods",0.543,,"hazard-category: chemical
+product-category: non-alcoholic beverages"
+490,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.661,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+491,True,allergens,confectionery,True,True,allergens,confectionery,0.557,,"hazard-category: allergens
+product-category: confectionery"
+492,True,biological,fats and oils,True,True,biological,fruits and vegetables,0.553,,"hazard-category: biological
+product-category: fats and oils"
+493,True,biological,prepared dishes and snacks,True,True,biological,herbs and spices,0.538,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+494,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.56,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+495,True,allergens,confectionery,True,True,allergens,"nuts, nut products and seeds",0.591,,"hazard-category: allergens
+product-category: confectionery"
+496,True,allergens,prepared dishes and snacks,True,True,allergens,confectionery,0.568,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+497,True,allergens,prepared dishes and snacks,True,True,allergens,"soups, broths, sauces and condiments",0.536,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+498,True,allergens,prepared dishes and snacks,True,True,allergens,fruits and vegetables,0.701,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+499,True,allergens,confectionery,True,True,allergens,confectionery,0.529,,"hazard-category: allergens
+product-category: confectionery"
+500,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.574,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+501,True,biological,prepared dishes and snacks,True,True,biological,"meat, egg and dairy products",0.539,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+502,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,fruits and vegetables,0.569,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+503,True,other hazard,prepared dishes and snacks,True,True,other hazard,fruits and vegetables,0.561,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+504,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.692,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+505,True,biological,prepared dishes and snacks,True,True,organoleptic aspects,cereals and bakery products,0.544,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+506,True,biological,seafood,True,True,biological,seafood,0.46,,"hazard-category: biological
+product-category: seafood"
+507,True,allergens,prepared dishes and snacks,True,True,allergens,cereals and bakery products,0.803,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+508,True,allergens,other food product / mixed,True,True,allergens,confectionery,0.695,,"hazard-category: allergens
+product-category: other food product / mixed"
+509,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.587,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+510,True,allergens,fruits and vegetables,True,True,fraud,fruits and vegetables,0.599,,"hazard-category: allergens
+product-category: fruits and vegetables"
+511,True,chemical,"dietetic foods, food supplements, fortified foods",True,True,chemical,"dietetic foods, food supplements, fortified foods",0.668,,"hazard-category: chemical
+product-category: dietetic foods, food supplements, fortified foods"
+512,True,biological,prepared dishes and snacks,True,True,biological,herbs and spices,0.727,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+513,True,allergens,confectionery,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.54,,"hazard-category: allergens
+product-category: confectionery"
+514,True,chemical,prepared dishes and snacks,True,True,chemical,ices and desserts,0.648,,"hazard-category: chemical
+product-category: prepared dishes and snacks"
+515,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.564,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+516,True,food additives and flavourings,prepared dishes and snacks,True,True,fraud,other food product / mixed,0.711,,"hazard-category: food additives and flavourings
+product-category: prepared dishes and snacks"
+517,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,"meat, egg and dairy products",0.83,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+518,True,biological,prepared dishes and snacks,True,True,biological,prepared dishes and snacks,0.827,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+519,True,other hazard,prepared dishes and snacks,True,True,other hazard,other food product / mixed,0.594,,"hazard-category: other hazard
+product-category: prepared dishes and snacks"
+520,True,biological,"meat, egg and dairy products",True,True,biological,other food product / mixed,0.673,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+521,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.686,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+522,True,chemical,feed materials,True,True,fraud,feed materials,0.505,,"hazard-category: chemical
+product-category: feed materials"
+523,True,biological,"meat, egg and dairy products",True,True,biological,seafood,0.623,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+524,True,food additives and flavourings,fruits and vegetables,True,True,fraud,fruits and vegetables,0.73,,"hazard-category: food additives and flavourings
+product-category: fruits and vegetables"
+525,False,packaging defect,,True,False,packaging defect,"dietetic foods, food supplements, fortified foods",0.52,,"hazard-category: packaging defect
+product-category: dietary supplements"
+526,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.555,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+527,True,allergens,confectionery,True,True,allergens,ices and desserts,0.516,,"hazard-category: allergens
+product-category: confectionery"
+528,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.697,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+529,True,allergens,confectionery,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.535,,"hazard-category: allergens
+product-category: confectionery"
+530,True,allergens,prepared dishes and snacks,True,True,allergens,fruits and vegetables,0.695,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+531,True,biological,"nuts, nut products and seeds",True,True,biological,fruits and vegetables,0.579,,"hazard-category: biological
+product-category: nuts, nut products and seeds"
+532,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.695,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+533,True,allergens,other food product / mixed,True,True,allergens,cereals and bakery products,0.657,,"hazard-category: allergens
+product-category: other food product / mixed"
+534,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.674,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+535,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.703,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+536,True,other hazard,"meat, egg and dairy products",True,True,fraud,fats and oils,0.767,,"hazard-category: other hazard
+product-category: meat, egg and dairy products"
+537,True,biological,prepared dishes and snacks,True,True,biological,fruits and vegetables,0.574,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+538,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,fruits and vegetables,0.547,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+539,True,biological,"meat, egg and dairy products",True,True,biological,"meat, egg and dairy products",0.75,,"hazard-category: biological
+product-category: meat, egg and dairy products"
+540,True,chemical,non-alcoholic beverages,True,True,chemical,other food product / mixed,0.575,,"hazard-category: chemical
+product-category: non-alcoholic beverages"
+541,True,chemical,fruits and vegetables,True,True,chemical,fruits and vegetables,0.48,,"hazard-category: chemical
+product-category: fruits and vegetables"
+542,True,chemical,fruits and vegetables,True,True,chemical,fruits and vegetables,0.574,,"hazard-category: chemical
+product-category: fruits and vegetables"
+543,True,allergens,confectionery,True,True,allergens,"cocoa and cocoa preparations, coffee and tea",0.531,,"hazard-category: allergens
+product-category: confectionery"
+544,True,biological,pet feed,True,True,biological,pet feed,0.612,,"hazard-category: biological
+product-category: pet feed"
+545,True,foreign bodies,prepared dishes and snacks,True,True,foreign bodies,seafood,0.678,,"hazard-category: foreign bodies
+product-category: prepared dishes and snacks"
+546,True,organoleptic aspects,alcoholic beverages,True,True,packaging defect,alcoholic beverages,0.609,,"hazard-category: organoleptic aspects
+product-category: alcoholic beverages"
+547,True,biological,prepared dishes and snacks,True,True,biological,cereals and bakery products,0.83,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+548,True,allergens,prepared dishes and snacks,True,True,allergens,fruits and vegetables,0.56,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+549,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.63,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+550,True,allergens,"meat, egg and dairy products",True,True,allergens,"meat, egg and dairy products",0.611,,"hazard-category: allergens
+product-category: meat, egg and dairy products"
+551,True,biological,prepared dishes and snacks,True,True,biological,"cocoa and cocoa preparations, coffee and tea",0.62,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+552,True,biological,confectionery,True,True,biological,"cocoa and cocoa preparations, coffee and tea",0.56,,"hazard-category: biological
+product-category: confectionery"
+553,True,biological,"nuts, nut products and seeds",True,True,biological,"nuts, nut products and seeds",0.578,,"hazard-category: biological
+product-category: nuts, nut products and seeds"
+554,True,allergens,prepared dishes and snacks,True,True,allergens,ices and desserts,0.593,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+555,True,allergens,cereals and bakery products,True,True,allergens,cereals and bakery products,0.575,,"hazard-category: allergens
+product-category: cereals and bakery products"
+556,True,biological,prepared dishes and snacks,True,True,biological,"nuts, nut products and seeds",0.555,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+557,True,chemical,"dietetic foods, food supplements, fortified foods",True,True,chemical,"dietetic foods, food supplements, fortified foods",0.653,,"hazard-category: chemical
+product-category: dietetic foods, food supplements, fortified foods"
+558,True,biological,prepared dishes and snacks,True,True,biological,"dietetic foods, food supplements, fortified foods",0.551,,"hazard-category: biological
+product-category: prepared dishes and snacks"
+559,True,chemical,prepared dishes and snacks,True,True,chemical,ices and desserts,0.571,,"hazard-category: chemical
+product-category: prepared dishes and snacks"
+560,True,allergens,prepared dishes and snacks,True,True,allergens,prepared dishes and snacks,0.64,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+561,True,allergens,prepared dishes and snacks,True,True,allergens,"dietetic foods, food supplements, fortified foods",0.546,,"hazard-category: allergens
+product-category: prepared dishes and snacks"
+562,True,foreign bodies,confectionery,True,True,foreign bodies,cereals and bakery products,0.594,,"hazard-category: foreign bodies
+product-category: confectionery"
+563,True,allergens,confectionery,True,True,allergens,cereals and bakery products,0.621,,"hazard-category: allergens
+product-category: confectionery"
+564,True,allergens,confectionery,True,True,allergens,confectionery,0.556,,"hazard-category: allergens
+product-category: confectionery"
